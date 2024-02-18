@@ -25,7 +25,7 @@
     "email-validator": "^2.0.4",
     "isbot": "^4.4.0",
     "jsonp": "^0.2.1",
-    "pigeon-maps": "^0.21.3",
+    "pigeon-maps": "^0.21.3", 
     "prismjs": "^1.29.0",
     "react": "^18.2.0",
     "react-bricks": "^4.1.0",
