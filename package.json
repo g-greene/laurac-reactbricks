@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@headlessui/react": "^1.7.17",
+    "@netlify/remix-adapter": "^2.2.0",
     "@remix-run/node": "^2.6.0",
     "@remix-run/react": "^1.19.3",
     "@remix-run/serve": "^1.19.3",
@@ -36,7 +37,7 @@
   },
   "devDependencies": {
     "@remix-run/dev": "^1.19.3",
-	"@remix-run/eslint-config": "^2.6.0",
+    "@remix-run/eslint-config": "^2.6.0",
     "@remix-run/serve": "^2.6.0",
     "@types/jsonp": "^0.2.1",
     "@types/prismjs": "^1.26.0",
@@ -50,6 +51,5 @@
   },
   "engines": {
     "node": ">=14"
-  },
-  "sideEffects": false
+  }
 }
